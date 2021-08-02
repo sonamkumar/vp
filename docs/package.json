@@ -1,0 +1,19 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "This is just a static site",
+  "main": "index.js",
+  "authors": {
+    "name": "Sonam",
+    "email": ""
+  },
+  "repository": "/Hello World",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.3"
+  }
+}
